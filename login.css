@@ -1,0 +1,150 @@
+*{
+    overflow:hidden ;
+}
+
+
+.b1{
+    float:left;
+    float: left;
+    height: 450px;
+    width: 0px;
+    border-right: 2px solid gray;
+   
+    
+    margin-top: 50px;
+
+   
+      
+}
+
+
+.right{
+
+    /* background-color:#cedddd; */
+    float:left;
+    height: 400px;
+    width: 50%;
+    
+    /* sff */
+}
+
+
+.left{
+    /* background-color:#cedddd; */
+    float:left;
+    height: 600px;
+    width: 40%;
+}
+
+
+
+#lo{
+    font-size: 40px;
+    margin-top: 70px;
+    margin-left: 250px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  
+}
+
+
+.input1 {
+    outline: 0;
+    margin-left: 200px;
+    margin-top: 30px;
+    border-width: 0 0 1px;
+    border-color: rgb(209, 198, 198);
+    width: 260px;
+    height: 50px;
+    font-size: large;
+  }
+  input:focus {
+    border-color: rgb(2, 2, 2)
+  }
+
+  .button1 {
+    background-color: #2e5c99;
+    border: none;
+    color: white;
+    padding: 6px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    /* margin: 4px 2px; */
+    margin-left: 200px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+    font-size: larger;
+
+    height: 50px;
+
+  }
+
+  #p1{
+    margin-left: 67px;
+    margin-top: 30px;
+    width: 500px;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+  }
+
+  .buttonL{
+
+    background-color: #ffffff;
+    border: rgb(17, 21, 145) solid 0.2px;
+    color: rgb(17, 21, 145);
+    padding: 6px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    /* margin: 4px 2px; */
+    margin-left: 65px;
+    margin-top: 70px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+    font-size: larger;
+
+    height: 50px;
+  
+
+  }
+
+  .X
+  {
+        margin-top: 40px;
+        margin-left: 500px;
+        font-size: x-large;
+        border: none;
+        background: none;
+        color: #2e5c99;
+
+        
+  }
+
+
+  
+#lo1{
+    /* font-size: x-large;
+    margin-top: 10px;
+    margin-left: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300; */
+
+
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 250px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    
+}
+
+.X:hover{
+    color: black
+}

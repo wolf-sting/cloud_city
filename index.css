@@ -1,0 +1,177 @@
+
+
+
+
+.card
+{
+    float: left;
+   margin: 100px;
+}
+
+#hide{
+    color: #1b2123;
+    background-color: #1b2123;
+    margin-top: -10px;
+}
+#d4
+{
+    margin-left:100px;
+    
+    height: 50px;
+    width: 80%;
+}
+
+
+#bgimg
+{
+    /* background-color: aqua;
+    color: aqua;
+     */
+    height: 500px;
+    width:100%;
+    background-color: rgba(209, 121, 34, 0.5);
+    background-blend-mode: multiply;
+    margin-top: -10px;
+}
+
+footer
+{
+    background-color: rgb(85, 84, 84);
+    color: rgb(0, 0, 0);
+    height: 400px;
+    width: 100%;
+}
+
+
+/* #wrapperDiv
+{
+    background-color: #3ccbf7;
+}
+ */
+
+
+
+body{
+    background-color: #1b2123;
+}
+
+
+
+
+#th
+{
+    background-color: #1b2123;
+    color: #ffffff;
+    margin-left: 550px;
+ 
+}
+
+
+/* ///////////////////////////////////// */
+
+
+.navbar-brand
+{
+color: aliceblue;
+}
+.navbar-nav .nav-link.active 
+{
+color: aliceblue;
+}
+.navbar-nav .nav-link
+{
+    color: antiquewhite;
+}
+
+.navbar-nav .dropdown-item
+{
+    color: aliceblue;
+}
+.navbar-nav .dropdown-divider
+{
+    color: aliceblue;
+}
+
+
+
+.card-body{
+    background-color: #060606;
+    color: aliceblue;
+}
+
+.card{
+    background-color: #060606;
+}
+
+/* ///////////////////////////////////////// */
+
+
+
+
+
+
+footer{
+    position: relative;
+    background-color:black;
+    box-sizing: border-box;
+    padding: 0px;
+    /* height: 360px; */
+    
+    /* top: 100%; */
+    width: 100%;
+  }
+  .foot{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* height: 265px; */
+    margin:0px 65px;
+    /* width: 75%; */
+    background-color:black;
+  }
+  .foot ul {
+    list-style: none;
+    padding:30px 80px;
+    margin: 0px;
+  
+  }
+  
+  .foot h1{
+    color: white;
+    font-size: 25px;
+  }
+  
+  .foot hr{
+    border: 2px solid #3ccbf7;
+  }
+  
+   
+  
+  .foot ul li a{
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+  
+  }
+  
+  .foot ul li b{
+    color: #cd1fb6;
+  }
+  
+  .bottomhq h1{
+    color: white;
+    display:flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 35px;
+  }
+  .bottomhq p{
+    color: white;
+    display:flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 15px;
+  }
+  
+  
+  
